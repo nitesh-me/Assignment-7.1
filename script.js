@@ -5,7 +5,7 @@ var num2 = 12.5;
 var num3= -6.769;
 var num4 = 0;
 var num5 =-1;
-var num =[-8,12.5,-6.769,0,-1];
+// var num =[-8,12.5,-6.769,0,-1];
 //using conditional statement to find the largest of the given number;
 console.log('num1 = '+ num1);
  console.log('num2 = '+ num2);
